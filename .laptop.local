@@ -1,0 +1,16 @@
+brew_tap 'caskroom/cask'
+brew_install_or_upgrade 'brew-cask'
+
+brew_tap 'caskroom/versions'
+
+brew cask install flux
+brew cask install github-desktop
+brew cask install sublime-text3
+brew cask install google-chrome
+brew cask install slack
+brew cask install vlc
+brew cask install virtualbox
+brew cask install 1password
+brew cask install skype
+brew cask install cloud
+brew cask install cloud
